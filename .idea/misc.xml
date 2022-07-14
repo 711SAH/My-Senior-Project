@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/drawable-anydpi/ic_rotation.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/activity_main.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/activity_main2.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/activity_main3.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/activity_main4.xml" value="0.2513586956521739" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/change_db_arraylist_disgn.xml" value="0.3392210144927536" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/changing_viewlist_textcolor.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/contant.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/dialog_changing_color.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/fragment_first.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/fragment_first2.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/fragment_second.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/fragment_second2.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/left_side.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/rhit_side.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/scelsiustophranhat.xml" value="0.30978260869565216" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/toolbar.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/toolbar2.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/toolbar3.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/layout/toolbar4.xml" value="0.2513586956521739" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BalotCalculator/app/src/main/res/menu/bilud_menu.xml" value="0.3484375" />
+        <entry key="..\:/Users/ASUS/OneDrive/Desktop/github/app/src/main/res/layout/activity_main.xml" value="0.3582427536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.9418181818181818" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/end"
+        motion:constraintSetStart="@id/start"
+        motion:duration="1000">
+       <KeyFrameSet>
+       </KeyFrameSet>
+    </Transition>
+
+    <ConstraintSet android:id="@+id/start">
+        <Constraint
+            android:layout_height="449dp"
+            android:layout_width="130dp"
+            android:id="@+id/include3"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintEnd_toStartOf="@+id/cooo"
+            motion:layout_constraintHorizontal_bias="0.222"
+            motion:layout_constraintTop_toBottomOf="@+id/editTextleft"
+            motion:layout_constraintVertical_bias="0.777" />
+        <Constraint
+            motion:layout_constraintVertical_bias="1.0"
+            android:layout_height="447dp"
+            motion:layout_constraintBottom_toBottomOf="@+id/include"
+            android:layout_width="128dp"
+            android:id="@+id/include4"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintTop_toBottomOf="@+id/editTextrhgit"
+            android:layout_marginTop="24dp"
+            motion:layout_constraintStart_toEndOf="@+id/cooo"
+            motion:layout_constraintHorizontal_bias="0.904" />
+    </ConstraintSet>
+
+    <ConstraintSet>
+        <Constraint
+            android:layout_height="540dp"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintHorizontal_bias="0.333"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="140dp"
+            motion:layout_constraintVertical_bias="0.0"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/include3"
+            motion:layout_constraintEnd_toStartOf="@+id/button"
+            motion:layout_constraintTop_toBottomOf="@+id/editTextleft" />
+    </ConstraintSet>
+</MotionScene>

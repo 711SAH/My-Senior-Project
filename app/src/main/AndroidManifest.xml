@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.balotcalculator">
+    <!-- I am not sure if tha permission is necessary. -->
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_PROFILES" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE " />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="حساب البلوت"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:textColor="#FFFFFF"
+        android:theme="@style/Theme.BalotCalculator">
+        <activity
+            android:name=".MainActivity4"
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
+        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-1680458477908270~8569729045" /> <!-- end for google ads -->
+        <activity
+            android:name=".MainActivity3"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity2"
+            android:label="@string/title_activity_main2"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.BalotCalculator.NoActionBar" /> <!-- android:parentActivityName=".MainActivity" this will make arrow back know that the parent activity is Main Activity and I can go to it -->
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
